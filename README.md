@@ -1,20 +1,30 @@
 # NGS for Pharmacy Students
 
-Welcome to my learning journey in Next-Generation Sequencing (NGS).
+Welcome! 👋
 
-## About this Repository
-
-This repository contains beginner-friendly notes about NGS, Bioinformatics, and Linux for pharmacy students.
+This repository documents my learning journey in Next-Generation Sequencing (NGS), Bioinformatics, and Computational Biology from a pharmacy perspective.
 
 ## Topics
 
 - Introduction to NGS
-- Linux Basics
-- FASTA and FASTQ
+- DNA Sequencing
+- FASTQ File Format
+- FASTA Format
 - Sequence Alignment
 - Variant Calling
+- Linux Commands
 - Python for Bioinformatics
+
+## My Goal
+
+To build a beginner-friendly collection of notes that helps pharmacy students understand bioinformatics concepts.
+
+## Resources
+
+Coming soon...
 
 ## Author
 
-Mariam Amgad
+Mariam Amgad Kamal
+Pharmacy Student
+Interested in Bioinformatics, AI in Healthcare, and Precision Medicine.
